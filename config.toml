@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Blog"
+
+themesDir = "themes"
+theme = "obi"
+
+MetaDataFormat = "yaml"
+
+description = "Creator Kit Dream League Soccer"
