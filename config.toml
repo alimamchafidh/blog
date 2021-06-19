@@ -8,3 +8,7 @@ theme = "obi"
 MetaDataFormat = "yaml"
 
 description = "Creator Kit Dream League Soccer"
+
+[author]
+    name = "admin"
+    image = "https://lh5.googleusercontent.com/-h2tLsyijw8Q/AAAAAAAAAAI/AAAAAAAACys/WBpjN_34z3o/s32-c/photo.jpg"
